@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560707883068",
+    "firebase_url": "https://pagina-web-f2db7.firebaseio.com",
+    "project_id": "pagina-web-f2db7",
+    "storage_bucket": "pagina-web-f2db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560707883068:android:36bb181672ccd1d5",
+        "android_client_info": {
+          "package_name": "mecalogik.com.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560707883068-v2amlaquqqa7fp2jr7f79v72iq7g8dn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.prueba",
+            "certificate_hash": "3e23b2cfc3da605155862f966f7085d5d8b45947"
+          }
+        },
+        {
+          "client_id": "560707883068-861eda7stkarsgj5m8fnqd76oe06bhek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjn6okVZDXsYwJ-0AhCVh3bZ1xilIS4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560707883068-861eda7stkarsgj5m8fnqd76oe06bhek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

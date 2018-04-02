@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prueba</string>
+    <string name="not_log_in">no se puede iniciar sesion</string>
+    <string name="not_firebase_auth">no se pudo autenticar con firebase</string>
+    <string name="not_close_session">no se pudo cerrar sesion</string>
+    <string name="not_revoke_session">no se pudo revocar el acceso</string>
+</resources>
